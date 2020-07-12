@@ -99,6 +99,6 @@ Dropout = 0
 
 Model | Pytorch LSTM | Custom LSTM | SCRN
 --- | --- | --- | --- 
-Bleu | 22.88 | -| -
+Bleu | 22.88 | 21.98 | 12
 
 #
